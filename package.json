@@ -2,7 +2,8 @@
   "name": "ramble_on_2",
   "private": true,
   "dependencies": {
-    "@rails/webpacker": "3.5"
+    "@rails/webpacker": "3.5",
+    "react-on-rails": "^11.0.9"
   },
   "devDependencies": {
     "webpack-dev-server": "2.11.2"
