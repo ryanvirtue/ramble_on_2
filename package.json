@@ -3,6 +3,7 @@
   "private": true,
   "dependencies": {
     "@rails/webpacker": "3.5",
+    "axios": "^0.18.0",
     "react-on-rails": "^11.0.9"
   },
   "devDependencies": {
